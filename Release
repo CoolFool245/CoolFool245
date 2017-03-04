@@ -1,0 +1,8 @@
+Origin: CoolFool245's Repo
+Label: CoolFool245's Official Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A Official Repo
